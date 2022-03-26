@@ -1,0 +1,11 @@
+https://bi.snu.ac.kr/Courses/g-ai09-2/hopfield82.pdf - pierwszy artykuł
+
+https://www-1scopus-1com-100002cwo0043.wbg2.bg.agh.edu.pl/record/display.uri?eid=2-s2.0-85121510869&origin=resultslist&sort=plf-f&src=s&st1=hopfield+network&nlo=&nlr=&nls=&sid=713e6163432f05d8e6e1287ba0102ca3&sot=b&sdt=cl&cluster=scofreetoread%2c%22all%22%2ct&sl=31&s=TITLE-ABS-KEY%28hopfield+network%29&relpos=27&citeCnt=0&searchTerm=&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1 - select a behaviour strategy for the group of mobile robots
+
+https://www-1scopus-1com-100002cwo0043.wbg2.bg.agh.edu.pl/record/display.uri?eid=2-s2.0-85094606111&origin=resultslist&sort=plf-f&src=s&st1=Hybrid+ant+colony+optimization+for+even-2+satisfiability+programming+in+Hopfield+neural+network&sid=c3dc7c96c17823918e5a6cbff5783611&sot=b&sdt=b&sl=110&s=TITLE-ABS-KEY%28Hybrid+ant+colony+optimization+for+even-2+satisfiability+programming+in+Hopfield+neural+network%29&relpos=0&citeCnt=0&searchTerm=&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1 - hodowla mrówek
+
+https://www.sciencedirect.com/science/article/pii/S0957417422002093?via%3Dihub - Covid
+
+https://www-1scopus-1com-100002cwo0043.wbg2.bg.agh.edu.pl/record/display.uri?eid=2-s2.0-85086323574&origin=resultslist&sort=plf-f&src=s&st1=hopfield+network&nlo=&nlr=&nls=&sid=6bc240ebe82789a3171d69c65e5b98d3&sot=b&sdt=cl&cluster=scofreetoread%2c%22all%22%2ct%2bscosubjabbr%2c%22MATE%22%2ct%2c%22DECI%22%2ct%2c%22EART%22%2ct&sl=31&s=TITLE-ABS-KEY%28hopfield+network%29&relpos=23&citeCnt=3&searchTerm=&featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1 - hand writing
+
+
